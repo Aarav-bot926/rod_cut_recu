@@ -26,6 +26,7 @@ int rodCut(int price[], int n)
 int main()
 {
     int length[] = {1,2,3,4,5,6,7,8};
+    //price list as 1 for 1cm,5 for 2cm
     int price[] = {1,5,8,9,10,17,17,20};
     int n = 4;
 
